@@ -9,3 +9,4 @@ The program is a simple, console game and the variation of the Hangman game.
 
 Additional notes:
 1. Player can choose how many times they will be allowed to guess the letter.
+For program to work properly, all of the attached files should be in the same directory.
